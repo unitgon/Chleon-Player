@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://orig06.deviantart.net/d50d/f/2016/150/6/f/chleon_player_1_1_by_marcopixel-da24rvm.png">
+<img src="https://i.imgur.com/peRkiJs.png">
 </p>
 
 # Chleon Media Player
@@ -10,6 +10,7 @@ Supports all major media players (AIMP, iTunes, Winamp, VLC, etc...) and full Sp
 #### Minimum Requirements:
  - Windows Vista
  - Rainmeter 3.3 (4.0 Beta recommended)
+ - Font: Avenir Next LT Pro
 
 #### Features
 
@@ -31,6 +32,4 @@ Supports all major media players (AIMP, iTunes, Winamp, VLC, etc...) and full Sp
 - Rainmeter Skin - MarcoPixel
 - AudioLevel Plugin (visualizer) - dgrace from the Rainmeter Forums
 - Spotify Plugin - .raptor from the Rainmeter Forums
-- Montserrat Font - Julieta Ulanovsky
 - Feather Icons - http://colebemis.com/feather/
-- Wallpaper used in Screenshot - http://www.xperiablog.net/2016/02/23/xperia-x-wallpapers-available-to-download/
